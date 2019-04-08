@@ -12,7 +12,8 @@ import java.util.List;
 
 @Component
 public class DataBaseCache {
-    private volatile ClothesInformation clothesInformationCache;
+    private ClothesInformation clothesInformationCache;
+    private volatile boolean isInit = false;
     @Autowired
     private ClothesStateRepository clothesStateRepository;
     private synchronized void initClothesInformationCache(){
@@ -32,10 +33,10 @@ public class DataBaseCache {
             clothesInformationCache = new ClothesInformation(temps, loc);
             clothesStateRepository.save(clothesInformationCache);
         }
+        isInit = true;
     }
     public ClothesInformation getClothesInformation(){
-        if(clothesInformationCache == null){
-            System.out.println("one");
+        if(!isInit){
             initClothesInformationCache();
         }
 //        else{
