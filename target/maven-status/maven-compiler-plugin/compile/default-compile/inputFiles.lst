@@ -5,6 +5,8 @@ D:\projects\java_projects\service\src\main\java\lintong\service\repository\Cloth
 D:\projects\java_projects\service\src\main\java\lintong\service\controller\PhoneInterface.java
 D:\projects\java_projects\service\src\main\java\lintong\datamodel\clothes\LocationInformation.java
 D:\projects\java_projects\service\src\main\java\lintong\service\repository\DataBaseCache.java
+D:\projects\java_projects\service\src\main\java\lintong\service\controller\ClothesInterface.java
 D:\projects\java_projects\service\src\main\java\lintong\datamodel\clothes\TemptureInformation.java
+D:\projects\java_projects\service\src\main\java\lintong\service\controller\ClothesInterfaceController.java
 D:\projects\java_projects\service\src\main\java\lintong\ServiceApplication.java
 D:\projects\java_projects\service\src\main\java\lintong\datamodel\command\TemptureCommand.java
