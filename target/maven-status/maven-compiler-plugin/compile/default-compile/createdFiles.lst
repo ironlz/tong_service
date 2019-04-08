@@ -1,0 +1,10 @@
+lintong\datamodel\command\TemptureCommand.class
+lintong\ServletInitializer.class
+lintong\service\controller\PhoneInterface.class
+lintong\service\repository\ClothesStateRepository.class
+lintong\ServiceApplication.class
+lintong\datamodel\clothes\TemptureInformation.class
+lintong\datamodel\clothes\ClothesInformation.class
+lintong\service\repository\DataBaseCache.class
+lintong\service\controller\PhoneInterfaceOntroller.class
+lintong\datamodel\clothes\LocationInformation.class
