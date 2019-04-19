@@ -19,7 +19,7 @@ public class TemptureInformation implements Serializable {
 
     private int road = -1;
     private int setTempture = -1;
-    private int currentTempture = -1;
+    private double currentTempture = -1;
 
     public TemptureInformation() {
     }
@@ -69,11 +69,11 @@ public class TemptureInformation implements Serializable {
         this.setTempture = setTempture;
     }
 
-    public int getCurrentTempture() {
+    public double getCurrentTempture() {
         return currentTempture;
     }
 
-    public void setCurrentTempture(int currentTempture) {
+    public void setCurrentTempture(double currentTempture) {
         this.currentTempture = currentTempture;
     }
     public void setTemptureInfo(TemptureInformation t){

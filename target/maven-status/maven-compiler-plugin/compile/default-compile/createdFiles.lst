@@ -1,3 +1,4 @@
+lintong\datamodel\clothes\DataFromClothes.class
 lintong\ServletInitializer.class
 lintong\ServiceApplication.class
 lintong\service\controller\ClothesInterfaceController.class
@@ -6,6 +7,7 @@ lintong\service\controller\ClothesInterface.class
 lintong\datamodel\command\TemptureCommand.class
 lintong\service\controller\PhoneInterface.class
 lintong\service\repository\ClothesStateRepository.class
+lintong\service\repository\TemptureCommandRepository.class
 lintong\datamodel\clothes\TemptureInformation.class
 lintong\datamodel\clothes\ClothesInformation.class
 lintong\service\controller\PhoneInterfaceOntroller.class
