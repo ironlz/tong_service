@@ -54,9 +54,9 @@ public class ClothesInterfaceController implements ClothesInterface {
         dataBase.saveClothesInformation(clothesInfo);
     }
 
-//    @RequestMapping(value = "clothes_info",method = RequestMethod.GET)
-//    @ResponseBody
-//    public ClothesInformation getClotheInfoData(){
-//        return dataBase.getClothesInformation();
-//    }
+    @RequestMapping(value = "clothes_info_post",method = RequestMethod.GET)
+    @ResponseBody
+    public ClothesInformation getClotheInfoData(){
+        return dataBase.getClothesInformation();
+    }
 }

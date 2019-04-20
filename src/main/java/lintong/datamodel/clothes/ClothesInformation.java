@@ -30,7 +30,7 @@ public class ClothesInformation implements Serializable {
     }
 
     @ElementCollection
-    @OneToMany(cascade = CascadeType.ALL)
+    @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     private final List<TemptureInformation> temptureInformations = new ArrayList<>(2);
     @OneToOne(cascade = CascadeType.ALL)
     private LocationInformation locationInformation;

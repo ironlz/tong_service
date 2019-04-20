@@ -2,78 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06d3015d-772b-445d-8f0f-eba0a21d8f71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/DataFromClothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lintong/service/repository/TemptureCommandRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/TemptureInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/TemptureInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lintong/datamodel/command/TemptureCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lintong/datamodel/command/TemptureCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lintong/service/repository/DataBaseCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lintong/service/repository/DataBaseCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lintong/datamodel/clothes/TemptureInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lintong/datamodel/clothes/TemptureInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lintong/datamodel/clothes/ClothesInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lintong/datamodel/clothes/ClothesInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lintong/datamodel/command/TemptureCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lintong/datamodel/command/TemptureCommand.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/lintong/service/controller/ClothesInterfaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lintong/service/controller/ClothesInterfaceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lintong/service/repository/DataBaseCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lintong/service/repository/DataBaseCache.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/service-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/service-1.0.war.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0.war.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/META-INF/maven/lintong/service/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/META-INF/maven/lintong/service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/datamodel/clothes/TemptureInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/datamodel/clothes/TemptureInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/datamodel/clothes/ClothesInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/datamodel/clothes/ClothesInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/datamodel/command/TemptureCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/datamodel/command/TemptureCommand.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/service/controller/ClothesInterfaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/service/controller/ClothesInterfaceController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/lib-provided/spring-boot-starter-tomcat-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/lib-provided/tomcat-embed-core-9.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/lib-provided/tomcat-embed-el-9.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/lib-provided/tomcat-embed-websocket-9.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/ExecutableArchiveLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/JarLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/LaunchedURLClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/Launcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/MainMethodRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/PropertiesLauncher$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/PropertiesLauncher$ArchiveEntryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/PropertiesLauncher$PrefixMatchingArchiveFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/PropertiesLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/WarLauncher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/Archive$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/Archive$EntryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/Archive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/ExplodedArchive$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/ExplodedArchive$FileEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/ExplodedArchive$FileEntryIterator$EntryComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/ExplodedArchive$FileEntryIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/ExplodedArchive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/JarFileArchive$EntryIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/JarFileArchive$JarFileEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/archive/JarFileArchive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/data/RandomAccessData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/data/RandomAccessDataFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/data/RandomAccessDataFile$DataInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/data/RandomAccessDataFile$FileAccess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/data/RandomAccessDataFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/AsciiBytes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/Bytes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/CentralDirectoryEndRecord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/CentralDirectoryFileHeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/CentralDirectoryParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/CentralDirectoryVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/FileHeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/Handler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarEntryFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFile$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFile$JarFileType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFileEntries$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFileEntries$EntryIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarFileEntries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarURLConnection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarURLConnection$JarEntryName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/JarURLConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/StringSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/jar/ZipInflaterInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/service-1.0/org/springframework/boot/loader/util/SystemPropertyUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/service/repository/DataBaseCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/service-1.0/WEB-INF/classes/lintong/service/repository/DataBaseCache.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/repository/DataBaseCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1711">
-              <caret line="67" column="47" lean-forward="true" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+            <state relative-caret-position="227">
+              <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,12 +43,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/PhoneInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="189">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/DataFromClothes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2488#2489#0" expanded="true" />
+                <element signature="e#2543#2544#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/repository/ClothesStateRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="70" lean-forward="true" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+            <state relative-caret-position="108">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,8 +92,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="183">
+              <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/LocationInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/TemptureInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1539">
+              <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -136,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/repository/TemptureCommandRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="108">
               <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -148,12 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/command/TemptureCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-              <folding>
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1350">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -171,6 +150,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>initClothesInformationCache</find>
+      <find>commandCache</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,7 +171,6 @@
         <option value="$PROJECT_DIR$/src/main/java/lintong/service/ServiceApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/lintong/ServiceApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/LocationInformation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterface.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
@@ -200,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/java/lintong/service/repository/TemptureCommandRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/lintong/datamodel/command/TemptureCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java" />
         <option value="$PROJECT_DIR$/src/main/java/lintong/service/repository/DataBaseCache.java" />
       </list>
     </option>
@@ -216,6 +196,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,7 +299,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,6 +363,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554521546970</updated>
     </task>
+    <task id="LOCAL-00001" summary="modify command interface">
+      <created>1555687610395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555687610395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -398,7 +386,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29371002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30490404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -412,7 +400,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34924078" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34924078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
@@ -426,21 +414,15 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify command interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify command interface" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/service/src/test/java/lintong/service/ServiceApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/repository/DataRepository.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/repository/TemptureCommandRepository.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/repository/InfoCahce.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/PhoneInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -457,13 +439,6 @@
             <element signature="e#237#238#0" expanded="true" />
             <element signature="e#297#298#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/LocationInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -488,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/DataFromClothes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/PhoneInterfaceOntroller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
@@ -505,17 +473,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/TemptureInformation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/repository/ClothesStateRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="70" lean-forward="true" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        <state relative-caret-position="108">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -524,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/repository/TemptureCommandRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="108">
           <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -532,38 +493,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/DataFromClothes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="1161">
+          <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/command/TemptureCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/LocationInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding>
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-216">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/TemptureInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="1539">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/PhoneInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/controller/ClothesInterfaceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+            <element signature="e#2543#2544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/clothes/ClothesInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lintong/datamodel/command/TemptureCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lintong/service/repository/DataBaseCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1711">
-          <caret line="67" column="47" lean-forward="true" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+        <state relative-caret-position="227">
+          <caret line="98" column="22" lean-forward="true" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

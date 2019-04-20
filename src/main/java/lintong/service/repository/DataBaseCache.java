@@ -92,6 +92,21 @@ public class DataBaseCache {
         }
         clothesInformationCache.getLocationInformation().copy(cloInfo.getLocationInformation());
         clothesStateRepository.save(clothesInformationCache);
+        refreshTempCommand(cloInfo);
+    }
+    private void refreshTempCommand(ClothesInformation cloInfo){
+        for(TemptureInformation t : cloInfo.getTemptureInformations()){
+            int setValue = t.getSetTempture();
+            int roadRemote = t.getRoad();
+            TemptureCommand cm = commandCache.get(roadRemote);
+            System.out.println("cm = " + cm.toString());
+            System.out.println("remote: " + setValue + ", local : " + cm.getTempture());
+            if(cm != null && cm.getTempture() != setValue){
+                cm.setTempture(setValue);
+                cm.setCommandDate(System.currentTimeMillis());
+                temptureCommandRepository.save(cm);
+            }
+        }
     }
 
     public synchronized void saveTemptureCommand(TemptureCommand tmpCmd){
